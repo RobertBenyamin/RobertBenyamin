@@ -9,7 +9,6 @@
 
 - Computer Science Student at Universitas Indonesia
 - A passionate Web developer and Mobile developer
-- Currently learning Data Science and AI
 - Personal website [link](https://robert-benyamin.vercel.app/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1-Bl4iL-WQLjEwriCJG3_-Utz_ERwpFSS/view)
 
